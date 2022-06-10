@@ -14,6 +14,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### Step 2:
 
 > Create TMDB Account for tmdb api key:
+> https://developers.themoviedb.org/3/getting-started/introduction
 > use tmdb api key as public api key in .env.
 
 ### Step 3:
